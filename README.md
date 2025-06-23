@@ -84,5 +84,3 @@ Send your submission to **[careers@preplink.ai](mailto:careers@preplink.ai)**
 Subject: **Senior Python Scraper — \[Your Name]**
 
 ---
-
-Would you like me to generate a matching `README.md` scaffold or file layout for this repo as well?
