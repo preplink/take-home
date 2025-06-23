@@ -2,7 +2,7 @@
 
 ### 🎯 Objective
 
-Build a **modular web scraper** using **Playwright** (or Selenium) that extracts product data from a public e-commerce site and simulates human-like browsing behavior. This exercise demonstrates your skills in automation, anti-detection, and scalable code design — **not for production use**.
+Build a **modular web scraper** using **Playwright** (or Selenium) that extracts product data from a public e-commerce site and simulates human-like browsing behavior. This exercise demonstrates your skills in automation, anti-detection, and scalable code design.
 
 ---
 
